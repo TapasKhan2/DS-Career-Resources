@@ -4,8 +4,6 @@
 ### Introduction 
 Data science interviews certainly aren’t easy. I know this first hand. I’ve participated in over 50 individual interviews and phone screens while applying for competitive internships over the last calendar year. Through this exciting and somewhat (at times, very) painful process, I’ve accumulated a plethora of useful resources that helped me prepare for and eventually pass data science interviews. Long story short, I’ve decided to sort through all my bookmarks and notes in order to deliver a comprehensive list of data science resources. With this list by your side, you should have more than enough effective tools at your disposal next time you’re prepping for a big interview.
 
-### See the Post
-I wrote a Medium post on the experience as well. You can find the post and more about my experience here:
 
 [The Big List of DS/ML Interview Resources](https://towardsdatascience.com/the-big-list-of-ds-ml-interview-resources-2db4f651bd63?source=friends_link&sk=e229d4fc3452514bd8d560ae898809cc)
 
